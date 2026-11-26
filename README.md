@@ -33,20 +33,28 @@
 ### [Sistema de Gestión — Junta de Agua y Riego “La Jones”](https://www.linkedin.com/in/melanie-silva-28633b226/details/projects/edit/forms/413642603/)
 *Ago. de 2026 – nov. de 2026*
 
+<p align="center"><a href="https://www.linkedin.com/in/melanie-silva-28633b226/details/projects/edit/forms/413642603/"><img src="./imag/la-jones.png" width="850" alt="Banner del Sistema de Gestión de Riego La Jones"/></a></p>
+
 Solución web integral para sistematizar y centralizar la administración comunitaria, financiera y técnica de la Junta de Agua y Riego “La Jones”, en Patate, Tungurahua. Incluye control de usuarios y lotes georreferenciados, turnos de riego, asistencia a asambleas y mingas con multas automáticas, caja y comprobantes PDF, pagos anuales del agua y un portal de autogestión para regantes.
 
 ### [GalaxyCell — Gestión de productos tecnológicos](https://www.linkedin.com/in/melanie-silva-28633b226/details/projects/edit/forms/413331025/)
 *Jun. de 2026 – ago. de 2026*
+
+<p align="center"><a href="https://www.linkedin.com/in/melanie-silva-28633b226/details/projects/edit/forms/413331025/"><img src="./imag/galaxycell.png" width="850" alt="Banner de GalaxyCell"/></a></p>
 
 Plataforma multiplataforma para administrar catálogos de telefonía y tecnología. Integra productos, marcas, categorías e imágenes en una aplicación móvil Android y una interfaz web en desarrollo, conectadas a una API REST con NestJS y PostgreSQL.
 
 ### [U-Ride — Gestión de viajes compartidos](https://www.linkedin.com/in/melanie-silva-28633b226/details/projects/edit/forms/412387946/)
 *Abr. de 2026 – jun. de 2026*
 
+<p align="center"><a href="https://www.linkedin.com/in/melanie-silva-28633b226/details/projects/edit/forms/412387946/"><img src="./imag/u-ride.png" width="850" alt="Banner de U-Ride"/></a></p>
+
 Aplicación web para coordinar viajes compartidos entre estudiantes. Permite publicar viajes, solicitar cupos, gestionar perfiles, calificaciones y reportes mediante una interfaz conectada a una API REST con autenticación y actualizaciones en tiempo real.
 
 ### [GITT — Gestión de Inventario de Talleres Tecnológicos](https://www.linkedin.com/in/melanie-silva-28633b226/details/projects/edit/forms/410167242/)
 *Mar. de 2025 – jun. de 2025*
+
+<p align="center"><a href="https://www.linkedin.com/in/melanie-silva-28633b226/details/projects/edit/forms/410167242/"><img src="./imag/gitt.png" width="850" alt="Banner de GITT para los talleres tecnológicos de la UTA"/></a></p>
 
 Aplicación web para administrar los recursos tecnológicos de los talleres de la Facultad de Ingeniería en Sistemas, Electrónica e Industrial (FISEI) de la Universidad Técnica de Ambato (UTA). Centraliza el inventario, los préstamos y la información de los recursos.
 
