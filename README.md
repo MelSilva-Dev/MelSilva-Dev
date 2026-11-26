@@ -10,13 +10,20 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-fff0f6?style=for-the-badge&logo=javascript&logoColor=db2777" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-fff0f6?style=for-the-badge&logo=react&logoColor=db2777" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-fff0f6?style=for-the-badge&logo=nodedotjs&logoColor=db2777" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-fff0f6?style=for-the-badge&logo=postgresql&logoColor=db2777" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-fff0f6?style=for-the-badge&logo=mysql&logoColor=db2777" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-fff0f6?style=for-the-badge&logo=mongodb&logoColor=db2777" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Docker-fff0f6?style=for-the-badge&logo=docker&logoColor=db2777" alt="Docker" />
+  <table>
+    <tr>
+      <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+      <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36" alt="React"/><br/><sub><b>React</b></sub></td>
+      <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+      <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
+    </tr>
+    <tr>
+      <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
+      <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/><br/><sub><b>MongoDB</b></sub></td>
+      <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/><br/><sub><b>Docker</b></sub></td>
+      <td align="center" width="130">🌸<br/><sub><b>Made with love</b></sub></td>
+    </tr>
+  </table>
 </div>
 
 <p align="center"><sub>También trabajo con ☕ Java · 🌐 HTML5 · 📊 R · 🐚 Bash · 🔶 Oracle · 📝 LaTeX · 🐧 Linux</sub></p>
