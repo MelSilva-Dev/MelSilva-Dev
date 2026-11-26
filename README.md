@@ -83,7 +83,7 @@ Aplicación web para administrar los recursos tecnológicos de los talleres de l
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=katty-dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-    <p>Conocer más: <a href="https://katty-dev.github.io/" target="_blank"><i class="fab fa-github"></i> GitHub Page</a></p>
+    <p>🌐 Conoce más sobre mí en mi <a href="https://melaniesilvaportafolios.onrender.com/" target="_blank"><strong>portafolio personal</strong></a>.</p>
 
 
 
